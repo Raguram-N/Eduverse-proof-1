@@ -31,7 +31,6 @@ A compilation of **national and international research studies (2020–2024)** h
 - **UNICEF India (2020)** – [From Rote Learning to Innovation](https://www.unicef.org/india/stories/rote-learning-innovation)  
 - **India Today**, **The India Forum**, **Shiksha.com (2023)** – Educational analyses and reports  
 - **ResearchGate (2023–2024)** – [Educational Reform Studies](https://www.researchgate.net/)  
-- **PwOnlyIAS (2023)** – [Policy Perspective: India Needs Experiential Learning](https://pwonlyias.com/)  
 
 ---
 
