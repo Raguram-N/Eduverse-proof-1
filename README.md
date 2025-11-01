@@ -1,5 +1,5 @@
-## 📉 Research Evidence: 
-### Conceptual Learning Gaps in Indian Education  
+## 📉 Conceptual Learning Gaps in Indian Education   
+
 
 A compilation of **national and international research studies (2020–2024)** highlighting persistent **conceptual learning challenges** among Indian students and the urgent need to shift from **rote memorization** to **experiential, competency-based learning**.
 
